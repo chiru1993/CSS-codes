@@ -1,0 +1,52 @@
+
+.main{
+    background-color: peru;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+   
+}
+.parent{
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 1%;
+
+
+}
+.one{
+    background-color: rgb(124, 233, 233);
+    height: 315px;
+    width: 315px;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+    justify-content: space-around;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.two{
+    background-color: palevioletred;
+    justify-content: center;
+    display: flex;
+}
+.three{
+    background-color: orangered;
+}
+.four{
+    background-color: rgb(86, 140, 191);
+}
+.five{
+    background-color: rgb(109, 179, 151);
+}
+.six{
+    background-color: rgb(155, 125, 182);
+}
+.text{
+    color: white;
+}

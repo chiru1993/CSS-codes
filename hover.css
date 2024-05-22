@@ -1,0 +1,19 @@
+.one{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+    transition-duration: 2s;
+    /* transition-delay: 2s; */
+    /* transition-timing-function: ease-in; */
+    /* transition-timing-function: ease-out; */
+    /* transition-timing-function: ease-in-out; */
+}
+.one:hover{
+    background-color: red;
+    /* transform: rotate(45deg); */
+    /* transform: rotateX(45deg); */
+    /* transform: scale(2); */
+    /* transform: scaleX(2); */
+    /* transform: scaleY(2); */
+    /* transform: scaleZ(2); */
+}

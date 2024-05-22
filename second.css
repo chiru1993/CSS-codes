@@ -1,0 +1,7 @@
+.news p{
+    width: 30%;
+    float: left;
+}
+.news p:nth-child(4){
+    clear: left;
+}

@@ -1,0 +1,15 @@
+.box1{
+    text-align: center;
+    width: 700px;
+    height: 700px;
+    border: 2px solid black;
+    background-color: blue;
+    margin: auto;
+   /* background: linear-gradient(yellow, blue, red);*/
+   /* background: linear-gradient(to left, yellow, blue); */
+   /* background: linear-gradient(100 deg, yellow, blue); */
+   /* background: linear-gradient(yellow 80%, blue 20%); */
+   border: 5px solid black;
+   background: radial-gradient(yellow 50%, blue 50%);
+   border-radius: 50%;
+}

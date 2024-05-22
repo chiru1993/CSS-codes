@@ -1,0 +1,24 @@
+#one{
+    background-color: blue;
+    height: 400px;
+    padding: 20px;
+}
+.two{
+    background-color: brown;
+    height: 350px;
+    width: 45%;
+    float: left;
+    padding: 5px;
+    border-style: dotted;
+}
+.three{
+    background-color: yellow;
+    height: 350px;
+    margin-left: 50%;
+    padding: 5px;
+    border: 2px solid black;
+
+}
+h2{
+    text-align: center;
+}

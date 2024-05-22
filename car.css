@@ -1,0 +1,22 @@
+.car{
+    height: 150px;
+    width: 400px;
+    background-color: brown;
+    margin-top: 250px;
+}
+body{
+    background-color: aqua;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+
+}
+.car-window{
+    height: 20px;
+    width: 20px;
+    border-radius: 25px;
+    background-color: blueviolet;
+    justify-content: center;
+    display: flex;
+    align-self: start;
+}

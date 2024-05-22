@@ -1,0 +1,20 @@
+#one,#two,#three {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    background-color: brown;
+    height: 100px;
+    text-shadow: 3px 5px 4px blue;    
+}
+#two, #three{
+    height: 30px;
+}
+#four,#six,#five,#seven{
+    display: flex;
+    align-items: flex-end;
+    background-color: blue;
+    height: 70px;
+}
+#five,#seven{
+    background-color: yellow;  
+}

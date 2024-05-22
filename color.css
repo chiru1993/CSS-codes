@@ -1,0 +1,32 @@
+.color1{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+    background-image:conic-gradient(red ,blue ,pink ,orange ,green ,yellow , rgb(255, 0, 128))
+    
+    
+}
+.color2{
+    width: 200px;
+    height: 200px;
+     margin: auto;
+     border-radius: 50%;
+     background: conic-gradient(orange 9%,rgb(195, 135, 6) 9% 18%, rgb(17, 128, 0) 18% 27%,
+    rgb(115, 180, 11) 27% 36%, rgb(15, 114, 207) 36% 45%,rgb(255,0,128) 45% 54%,rgb(212, 28, 59) 54% 63%,rgb(97, 97, 5) 63% 72%,
+    yellow 72% 81%, rgb(125, 125, 5) 81% 90%, blue 90% 100%)
+   
+
+}
+.color3{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background: conic-gradient( red 3%, yellow 3% 6%,red 6% 9%, yellow 9% 12%,
+    red 12% 15%,yellow 15% 18%,red 18% 21%,yellow 21% 24%,red 24% 27%,
+     yellow 27% 30%, red 30% 33%, yellow 33% 36%, red 36% 39%, yellow 39% 42%,red 42% 45%, yellow 45% 48%,
+     red 48% 51%,yellow 51% 54%,red 54% 57%,yellow 57% 60%,red 60% 63%,
+      yellow 63% 66%, red 66% 69%, yellow 69% 72%, red 72% 75%, yellow 75% 78%,red 78% 81%, yellow 81% 84%,
+      red 84% 87%,yellow 87% 90%,red 90% 93%,yellow 93% 96%,red 96% 98%,yellow 98% 100%);
+   border-radius: 50%;
+}
